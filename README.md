@@ -19,7 +19,7 @@ Created as part of an IRB-approved research study at Saint Louis University, thi
 SQL, Python, R, Power BI, Looker Studio, Excel
 
 **🔗 Dashboard Link:**  
-🔒 *Internal research dashboard – available upon request due to IRB compliance*
+- 📊 [Primary Dashboard View](https://lookerstudio.google.com/u/0/reporting/75c34b46-2583-48c8-b5bc-36684bc1587c/page/p_007tf65crd)
 
 ---
 
@@ -38,7 +38,6 @@ This Looker Studio dashboard provides real-time business performance tracking wi
 Looker Studio, Google Sheets, SQL, Excel
 
 **🔗 Dashboard Links:**
-- 📊 [Primary Dashboard View](https://lookerstudio.google.com/u/0/reporting/75c34b46-2583-48c8-b5bc-36684bc1587c/page/p_007tf65crd)
 - 🌍 [Geographical & KPI Dashboard](https://lookerstudio.google.com/reporting/d3c6dec9-a93d-49d2-bfaf-6db7eaae2553)
 
 ---
